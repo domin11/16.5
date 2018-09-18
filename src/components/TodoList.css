@@ -1,0 +1,14 @@
+
+.TodoList li {
+  margin: 6px;
+  font-size: 28px;
+  border-bottom: 1px solid;
+}
+.TodoList button {
+  float: right;
+  margin-left: 20px;
+  background: white;
+}
+.TodoList button:hover {
+  cursor: pointer;
+}
